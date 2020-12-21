@@ -6,6 +6,8 @@ The purpose of this analysis was the help Pewlett Hackard determines the number 
 ## Results:
 •Retiring titles include Senior Engineers, Senior Staff, Engineers, Staff, Technical Leaders, Assistant Engineers and Managers.
 -Majority of employees that are eligible for retiring are Senior Engineers
+<img width="211" alt="Screen Shot 2020-12-21 at 10 04 52 AM" src="https://user-images.githubusercontent.com/72036895/102802509-01c6b880-4374-11eb-81e7-f4ddbccc3fed.png">
+
 
 • Pewllett Hackard retirement eligibility is employees born between 1952 and 1955
 
